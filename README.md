@@ -5,7 +5,11 @@ Reto: Decodificar y Clasificar
 Team # 32
 
 Ayelen Perez | Argentina
+
 Jefferson Granizo | Ecuador
+
 Jesus Montemayor | Perú
+
 Rubén Guzmán | México
+
 Andres Diaz | Puerto Rico
